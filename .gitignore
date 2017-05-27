@@ -1,4 +1,3 @@
 log.txt
-/dir1
-/dir2
-/dir2/app.js
+./dir1
+./dir2
